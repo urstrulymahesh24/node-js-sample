@@ -29,9 +29,11 @@
 }
 
 {
-  ...
+
 
   "publishConfig": {
     "registry": "http://http://13.233.148.195:8081/repository/npm-private/"
   }
 }
+
+...
