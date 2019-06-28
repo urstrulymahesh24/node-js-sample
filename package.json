@@ -32,7 +32,7 @@
 
 
   "publishConfig": {
-    "registry": "http://http://13.233.148.195:8081/repository/npm-private/"
+    "registry": "http://34.229.191.129:8081/repository/npm-private/"
   }
 }
 
