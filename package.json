@@ -27,12 +27,10 @@
   ],
   "license": "MIT"
 }
-
-
-
-
-“publishConfig”: {
- “registry”: “http://34.229.191.129:8081//repository/npm-internal/"
- },
-
 ...
+
+…
+“publishConfig”: {
+ “registry”: “http://http://34.229.191.129:8081/repository/npm-internal/"
+ },
+…
