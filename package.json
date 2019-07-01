@@ -27,6 +27,6 @@
 	],
 	"license": "MIT",
 	"publishConfig": {
-		"registry": "http://http://54.144.39.176:8081/repository/npm-private/"
+		"registry": "http://http://54.144.392.176:8081/repository/npm-private/"
 	}
 }
