@@ -30,7 +30,6 @@
 
 
 {
-  ...
 
   "publishConfig": {
     "registry": "http://http://54.144.39.176:8081/repository/npm-private/"
