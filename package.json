@@ -26,7 +26,8 @@
     "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)"
   ],
   "license": "MIT"
+  
   "publishConfig": {
-    "registry": "http://your-host:8081/repository/npm-private/"
+    "registry": "http://http://54.144.39.176:8081/repository/npm-private/"
   }
 }
