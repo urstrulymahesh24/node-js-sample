@@ -25,10 +25,7 @@
   "contributors": [
     "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)"
   ],
- 
   "license": "MIT"
-
-
 {
 
   "publishConfig": {
